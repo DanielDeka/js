@@ -20,4 +20,5 @@ function processForm() {
      result = (temperature -  32)  *  5/9;
     }
 
+    document.tempForm.resultField.value = result;
 }
