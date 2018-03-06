@@ -22,6 +22,7 @@ body {
 body.on {
   background-color: #099;
 }
+
 button {
   background: transparent;
   border: 2px solid #fff;
