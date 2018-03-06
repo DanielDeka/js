@@ -16,5 +16,4 @@ document.getElementById('show-element').onclick = function()
     document.getElementsByTagName('body')[0].className = 'off';
     document.getElementById('show-element').className = '';
   }
-  
 }
