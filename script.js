@@ -13,7 +13,7 @@ function processForm() {
 
     /*conditional to perform calculations based on choice */
 
-    if (tempType = 'fahrenheit') {
+    if (tempType === 'fahrenheit') {
         result = temperature * 9/5 + 32;
     }
     else {
